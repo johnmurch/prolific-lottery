@@ -29,7 +29,7 @@ e.g. Image #1
 
 
 ## ALL NUMBERS
-*NOTE* IMAGE# references in [/tickets](https://github.com/johnmurch/prolific-lottery/tree/master/tickets) and Ticket# reference layout above
+*NOTE* IMAGE# references in [/tickets](https://github.com/johnmurch/prolific-lottery/tree/master/tickets) and Ticket# reference layout above. Also Ticket #7 is a power play ticket, so there is some other potential for $$$ even if we don't match them all. 
 
 | #WB1 | #WB2 | #WB3 | #WB4 | #WB5 | PB | IMAGE# | TICKET# | 
 |------|------|------|------|------|----|--------|---------| 
