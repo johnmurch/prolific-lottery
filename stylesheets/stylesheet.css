@@ -880,6 +880,7 @@ input[type=number] {
 }*/
 .lott-numbers{float:left;width:150px;border:1px solid #000;}
 input[value^="#"] {background:green;color:#fff}
+input[value^="!"] {background:red;color:#fff}
 input[value^="08"] {background:green;color:#fff}
 input[value^="27"] {background:green;color:#fff}
 input[value^="34"] {background:green;color:#fff}
