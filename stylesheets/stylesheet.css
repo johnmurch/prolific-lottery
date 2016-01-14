@@ -879,11 +879,12 @@ input[type=number] {
   color: white
 }*/
 .lott-numbers{float:left;width:150px;border:1px solid #000;}
+input[value^="10"]{background:white;color:#000}
+input[value^="10"]:nth-child(6){background:red;color:#fff}
 input[value^="#"] {background:green;color:#fff}
 input[value^="!"] {background:red;color:#fff}
 input[value^="08"] {background:green;color:#fff}
 input[value^="27"] {background:green;color:#fff}
 input[value^="34"] {background:green;color:#fff}
 input[value^="04"] {background:green;color:#fff}
-input[value^="10"] {background:red;color:#fff}
-
+input[value^="19"] {background:green;color:#fff}
