@@ -6,12 +6,12 @@ $(document).ready(function() {
       //generatedTickets+='<h1>IMAGE #"+numbers[index].tix+"</h1>';
       generatedTickets+='<div class="clear">';
       generatedTickets+='<div class="lott-numbers">';
-      generatedTickets+='<input type="number" value="'+numbers[index].wb1+'" disabled/>'
-      generatedTickets+='<input type="number" value="'+numbers[index].wb2+'" disabled/>'
-      generatedTickets+='<input type="number" value="'+numbers[index].wb3+'" disabled/>'
-      generatedTickets+='<input type="number" value="'+numbers[index].wb4+'" disabled/>'
-      generatedTickets+='<input type="number" value="'+numbers[index].wb5+'" disabled/>'
-      generatedTickets+='<input type="number" value="'+numbers[index].pb+'" disabled/>'
+      generatedTickets+='<input type="number" value="'+("0" + numbers[index].wb1).slice (-2)+'" disabled/>'
+      generatedTickets+='<input type="number" value="'+("0" + numbers[index].wb2).slice (-2)+'" disabled/>'
+      generatedTickets+='<input type="number" value="'+("0" + numbers[index].wb3).slice (-2)+'" disabled/>'
+      generatedTickets+='<input type="number" value="'+("0" + numbers[index].wb4).slice (-2)+'" disabled/>'
+      generatedTickets+='<input type="number" value="'+("0" + numbers[index].wb5).slice (-2)+'" disabled/>'
+      generatedTickets+='<input type="number" value="'+("0" + numbers[index].pb).slice (-2)+'" disabled/>'
       generatedTickets+='</div>';
       generatedTickets+='</div>';
     });
