@@ -7,8 +7,6 @@ PowerBall Drawing for 1/13/2016
 
 One repo to rule them all - The Prolific Millionaires Tickets and Results.  
 
-*Please note this is a work in progress and updates are coming!!!*
-
 
 ## IMPORTANT
 
@@ -19,7 +17,7 @@ If you paid $20 to @drew and/or bought a ticket and submitted it to @drew your n
 
 The images of the tickets are in [/tickets](https://github.com/johnmurch/prolific-lottery/tree/master/tickets) and the numbers are in a [Google Doc](https://docs.google.com/a/prolificinteractive.com/spreadsheets/d/1U-T_lSjdg4VYkCxQ4YxZ2d29aDTpjKT-594pcqfT6MQ/edit?usp=sharing) 
 
-*NOTE* The ticket# is top to bottom left to right where the top left most ticket would be the lowest of the count and the bottom right would be the highest of the count. 
+**NOTE** The ticket # is top to bottom left to right where the top left most ticket would be the lowest of the count and the bottom right would be the highest of the count. 
 
 e.g. Image #1
 
@@ -29,7 +27,10 @@ e.g. Image #1
 
 
 ## ALL NUMBERS
-*NOTE* IMAGE# references in [/tickets](https://github.com/johnmurch/prolific-lottery/tree/master/tickets) and Ticket# reference layout above. Also Ticket #7 is a power play ticket, so there is some other potential for $$$ even if we don't match them all. 
+**NOTE* IMAGE # references in [/tickets](https://github.com/johnmurch/prolific-lottery/tree/master/tickets) and Ticket # reference layout above. 
+Also Ticket #7 is a power play ticket, so there is some other potential for $$$ even if we don't match them all. 
+
+[CSV](https://github.com/johnmurch/prolific-lottery/tree/master/tickets/tickets.csv)
 
 | #WB1 | #WB2 | #WB3 | #WB4 | #WB5 | PB | IMAGE# | TICKET# | 
 |------|------|------|------|------|----|--------|---------| 
