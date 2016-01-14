@@ -30,7 +30,8 @@ e.g. Image #1
 **NOTE* IMAGE # references in [/tickets](https://github.com/johnmurch/prolific-lottery/tree/master/tickets) and Ticket # reference layout above. 
 Also Ticket #7 is a power play ticket, so there is some other potential for $$$ even if we don't match them all. 
 
-[CSV](https://github.com/johnmurch/prolific-lottery/tree/master/tickets/tickets.csv)
+[CSV](https://github.com/johnmurch/prolific-lottery/tree/master/tickets.csv)
+[IMAGES](https://github.com/johnmurch/prolific-lottery/tree/master/tickets.zip)
 
 | #WB1 | #WB2 | #WB3 | #WB4 | #WB5 | PB | IMAGE# | TICKET# | 
 |------|------|------|------|------|----|--------|---------| 
