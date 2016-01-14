@@ -31,8 +31,8 @@ e.g. Image #1
 ## ALL NUMBERS
 *NOTE* IMAGE# references in [/tickets](https://github.com/johnmurch/prolific-lottery/tree/master/tickets) and Ticket# reference layout above
 
-|------|------|------|------|------|----|--------|---------| 
 | #WB1 | #WB2 | #WB3 | #WB4 | #WB5 | PB | IMAGE# | TICKET# | 
+|------|------|------|------|------|----|--------|---------| 
 | 1    | 32   | 36   | 49   | 64   | 8  | 1      | 1       | 
 | 1    | 19   | 22   | 28   | 63   | 19 | 1      | 1       | 
 | 6    | 23   | 28   | 43   | 68   | 5  | 1      | 1       | 
